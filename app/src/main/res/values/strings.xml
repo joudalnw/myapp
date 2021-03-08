@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">my.app</string>
+    <string name="imgSail">sailing img</string>
+    <string name="txtTitle">adventures</string>
+    <string name="bttnDate">Choose</string>
+    <string name="TextDescription">A long text about web</string>
+</resources>
